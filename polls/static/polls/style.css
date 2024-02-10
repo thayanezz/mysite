@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+    border: 1px solid black;
+
+}
+
+p {
+    color: purple;
+    font-style: bold;
+}
+
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/background.png") no-repeat;
+}
